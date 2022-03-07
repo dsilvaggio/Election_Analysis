@@ -24,3 +24,7 @@ The analysis of the election results showed that:
     * Diana DeGetter recieved 73.8% of the vote and 272,892 total votes.
     * Raymon Anthony Doana recieved 3.1% of the vote and 11, 606 total votes.
   * The winner of the election was Diana DeGette who recieved 73.8& of the vote and a total of 272,892 votes.  
+
+## Challenge Overview
+
+## Challenge Summary
