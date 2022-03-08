@@ -32,9 +32,9 @@ The analysis of the election results showed that:
   3. Determing the county with the largest turnout
 
 ## Challenge Summary
-  The results of the audit showed the following:
-    * The voter turnout for each county was:
+The results of the audit showed the following:
+  * The voter turnout for each county was:
       * Jefferson county made up 10.5% of the vote with 38,855 total votes.
       * Denver county made up 82.8% of the vote with 306,055 total votes.
-      * Arapahoe county made up 6.7% of the vote with 24, 801 total votes. 
-    * The county with the largest voter turnout was Denver county with 82.8% of the vote and 306,055 total votes.
+      * Arapahoe county made up 6.7% of the vote with 24, 801 total votes.
+  * The county with the largest voter turnout was Denver county with 82.8% of the vote and 306,055 total votes.
