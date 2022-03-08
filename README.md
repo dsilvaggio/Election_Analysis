@@ -23,8 +23,18 @@ The analysis of the election results showed that:
     * Charles Casper Stockham recieved 23% of the vote and 85,213 total votes.
     * Diana DeGetter recieved 73.8% of the vote and 272,892 total votes.
     * Raymon Anthony Doana recieved 3.1% of the vote and 11, 606 total votes.
-  * The winner of the election was Diana DeGette who recieved 73.8& of the vote and a total of 272,892 votes.  
+  * The winner of the election was Diana DeGette who recieved 73.8% of the vote and a total of 272,892 votes.  
 
 ## Challenge Overview
+  After auditing the results to declare the winning candidate, the election commission has requested assistance in additional data in order to complete the audit. Assistance was needed in:
+  1. Determing the voter turnout for each county
+  2. Determing the percentage of total votes that came from each county
+  3. Determing the county with the largest turnout
 
 ## Challenge Summary
+  The results of the audit showed the following:
+    * The voter turnout for each county was:
+      * Jefferson county made up 10.5% of the vote with 38,855 total votes.
+      * Denver county made up 82.8% of the vote with 306,055 total votes.
+      * Arapahoe county made up 6.7% of the vote with 24, 801 total votes. 
+    * The county with the largest voter turnout was Denver county with 82.8% of the vote and 306,055 total votes.
