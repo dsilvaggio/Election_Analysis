@@ -39,6 +39,6 @@ The results of the audit showed the following:
       * Arapahoe county made up 6.7% of the vote with 24, 801 total votes.
   * The county with the largest voter turnout was Denver county with 82.8% of the vote and 306,055 total votes.
 A full overview of the completed audit can be seen below:
-![This is an image](Resources/Screen Shot 2022-03-07 at 7.27.03 PM.png)
+![This is an image](https://github.com/dsilvaggio/Election_Analysis/blob/0a532dce253d599515c48d6e2c8434b9df35b1fd/Resources/Screen%20Shot%202022-03-07%20at%207.27.03%20PM.png)
 
 This python script can be used for any further election by simply changing the data that this script is pulling from. In order to modify the script for any election, you would need to change the original path that we are loading from to the updated election data that you want to use, instead of "election_results.csv" file that we used here. I would also create a new election_analysis.txt file to write your updated election results too, instead of the "election_analysis.txt" file that we used in this script. Overall, you would need to modify both the path that we are loading from and the path that we are saving to. 
